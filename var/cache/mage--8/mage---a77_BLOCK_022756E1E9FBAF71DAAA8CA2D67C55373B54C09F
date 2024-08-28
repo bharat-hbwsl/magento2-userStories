@@ -1,0 +1,209 @@
+a:4:{s:4:"hash";s:0:"";s:5:"mtime";i:1724819854;s:6:"expire";i:1724906254;s:4:"tags";s:58:"a77_CAT_P,a77_BLOCK_HTML,a77_CAT_P_6,a77_CAT_P_14,a77_MAGE";}
+        <div class="block widget block-products-list grid">
+                <div class="block-content">
+            <!-- new_products_content_widget_grid-->            <div class="products-grid grid">
+                <ol class="product-items widget-product-grid">
+                                                                <li class="product-item">                        <div class="product-item-info">
+                            <a href="http://bharat.magentotest.com:8081/fusion-backpack.html" class="product-item-photo">
+                                <span class="product-image-container product-image-container-6">
+    <span class="product-image-wrapper">
+        <img class="product-image-photo"
+                        src="http://bharat.magentotest.com:8081/media/catalog/product/cache/f4afc1eaa4f01a4d6293cd375737a440/m/b/mb02-gray-0.jpg"
+            loading="lazy"
+            width="240"
+            height="300"
+            alt="Fusion&#x20;Backpack"/></span>
+</span>
+<style>.product-image-container-6 {
+    width: 240px;
+}
+.product-image-container-6 span.product-image-wrapper {
+    padding-bottom: 125%;
+}</style><script type="text&#x2F;javascript">prodImageContainers = document.querySelectorAll(".product-image-container-6");
+for (var i = 0; i < prodImageContainers.length; i++) {
+    prodImageContainers[i].style.width = "240px";
+}
+prodImageContainersWrappers = document.querySelectorAll(
+    ".product-image-container-6  span.product-image-wrapper"
+);
+for (var i = 0; i < prodImageContainersWrappers.length; i++) {
+    prodImageContainersWrappers[i].style.paddingBottom = "125%";
+}</script>                            </a>
+                            <div class="product-item-details">
+                                <strong class="product-item-name">
+                                    <a title="Fusion Backpack"
+                                       href="http://bharat.magentotest.com:8081/fusion-backpack.html"
+                                       class="product-item-link">
+                                        Fusion Backpack                                    </a>
+                                </strong>
+                                                                            <div class="product-reviews-summary short">
+                <div class="rating-summary">
+            <span class="label"><span>Rating:</span></span>
+            <div class="rating-result"
+                 id="rating-result_6"
+                 title="67%">
+                <span><span>67%</span></span>
+            </div>
+            <script type="text&#x2F;javascript">    var elemVAXzjGmMArray = document.querySelectorAll('#rating-result_6 span');
+    if(elemVAXzjGmMArray.length !== 'undefined'){
+        elemVAXzjGmMArray.forEach(function(element) {
+            if (element) {
+                element.style.width = '67%';
+
+            }
+        });
+    }</script>        </div>
+                <div class="reviews-actions">
+            <a class="action view"
+               href="http://bharat.magentotest.com:8081/fusion-backpack.html#reviews">3                &nbsp;<span>Reviews                </span>
+            </a>
+        </div>
+    </div>
+                                
+                                <div class="price-box price-final_price" data-role="priceBox" data-product-id="6" data-price-box="product-id-6">
+    
+
+<span class="price-container price-final_price&#x20;tax&#x20;weee"
+        >
+        <span  id="old-price-6-widget-product-grid"                data-price-amount="59"
+        data-price-type="finalPrice"
+        class="price-wrapper "
+    ><span class="price">$59.00</span></span>
+        </span>
+
+</div>
+                                
+                                                                    <div class="product-item-inner">
+                                        <div class="product-item-actions">
+                                                                                            <div class="actions-primary">
+                                                                                                                                                                    <form data-role="tocart-form" data-product-sku="24-MB02" action="http://bharat.magentotest.com:8081/checkout/cart/add/uenc/aHR0cDovL2JoYXJhdC5tYWdlbnRvdGVzdC5jb206ODA4MS8~/product/6/" method="post">
+                                                            <input type="hidden" name="product" value="6">
+                                                            <input type="hidden" name="uenc" value="aHR0cDovL2JoYXJhdC5tYWdlbnRvdGVzdC5jb206ODA4MS9jaGVja291dC9jYXJ0L2FkZC91ZW5jL2FIUjBjRG92TDJKb1lYSmhkQzV0WVdkbGJuUnZkR1Z6ZEM1amIyMDZPREE0TVM4fi9wcm9kdWN0LzYv">
+                                                            <input name="form_key" type="hidden" value="mHNDdVuROhbkhVQz" />                                                            <button type="submit"
+                                                                    title="Add to Cart"
+                                                                    class="action tocart primary">
+                                                                <span>Add to Cart</span>
+                                                            </button>
+                                                        </form>
+                                                                                                    </div>
+                                                                                                                                        <div class="actions-secondary" data-role="add-to-links">
+                                                                                                            <a href="#"
+                                                           data-post='{"action":"http:\/\/bharat.magentotest.com:8081\/wishlist\/index\/add\/","data":{"product":6,"uenc":"aHR0cDovL2JoYXJhdC5tYWdlbnRvdGVzdC5jb206ODA4MS8~"}}' class="action towishlist" data-action="add-to-wishlist" title="Add&#x20;to&#x20;Wish&#x20;List">
+                                                            <span>Add to Wish List</span>
+                                                        </a>
+                                                                                                                                                                                                                        <a href="#" class="action tocompare" data-post='{"action":"http:\/\/bharat.magentotest.com:8081\/catalog\/product_compare\/add\/","data":{"product":"6","uenc":"aHR0cDovL2JoYXJhdC5tYWdlbnRvdGVzdC5jb206ODA4MS8~"}}' title="Add&#x20;to&#x20;Compare">
+                                                            <span>Add to Compare</span>
+                                                        </a>
+                                                                                                    </div>
+                                                                                    </div>
+                                    </div>
+                                                            </div>
+                        </div>
+                                                                    </li><li class="product-item">                        <div class="product-item-info">
+                            <a href="http://bharat.magentotest.com:8081/push-it-messenger-bag.html" class="product-item-photo">
+                                <span class="product-image-container product-image-container-14">
+    <span class="product-image-wrapper">
+        <img class="product-image-photo"
+                        src="http://bharat.magentotest.com:8081/media/catalog/product/cache/f4afc1eaa4f01a4d6293cd375737a440/w/b/wb04-blue-0.jpg"
+            loading="lazy"
+            width="240"
+            height="300"
+            alt="Push&#x20;It&#x20;Messenger&#x20;Bag"/></span>
+</span>
+<style>.product-image-container-14 {
+    width: 240px;
+}
+.product-image-container-14 span.product-image-wrapper {
+    padding-bottom: 125%;
+}</style><script type="text&#x2F;javascript">prodImageContainers = document.querySelectorAll(".product-image-container-14");
+for (var i = 0; i < prodImageContainers.length; i++) {
+    prodImageContainers[i].style.width = "240px";
+}
+prodImageContainersWrappers = document.querySelectorAll(
+    ".product-image-container-14  span.product-image-wrapper"
+);
+for (var i = 0; i < prodImageContainersWrappers.length; i++) {
+    prodImageContainersWrappers[i].style.paddingBottom = "125%";
+}</script>                            </a>
+                            <div class="product-item-details">
+                                <strong class="product-item-name">
+                                    <a title="Push It Messenger Bag"
+                                       href="http://bharat.magentotest.com:8081/push-it-messenger-bag.html"
+                                       class="product-item-link">
+                                        Push It Messenger Bag                                    </a>
+                                </strong>
+                                                                            <div class="product-reviews-summary short">
+                <div class="rating-summary">
+            <span class="label"><span>Rating:</span></span>
+            <div class="rating-result"
+                 id="rating-result_14"
+                 title="67%">
+                <span><span>67%</span></span>
+            </div>
+            <script type="text&#x2F;javascript">    var elemqGIJS5RiArray = document.querySelectorAll('#rating-result_14 span');
+    if(elemqGIJS5RiArray.length !== 'undefined'){
+        elemqGIJS5RiArray.forEach(function(element) {
+            if (element) {
+                element.style.width = '67%';
+
+            }
+        });
+    }</script>        </div>
+                <div class="reviews-actions">
+            <a class="action view"
+               href="http://bharat.magentotest.com:8081/push-it-messenger-bag.html#reviews">3                &nbsp;<span>Reviews                </span>
+            </a>
+        </div>
+    </div>
+                                
+                                <div class="price-box price-final_price" data-role="priceBox" data-product-id="14" data-price-box="product-id-14">
+    
+
+<span class="price-container price-final_price&#x20;tax&#x20;weee"
+        >
+        <span  id="old-price-14-widget-product-grid"                data-price-amount="45"
+        data-price-type="finalPrice"
+        class="price-wrapper "
+    ><span class="price">$45.00</span></span>
+        </span>
+
+</div>
+                                
+                                                                    <div class="product-item-inner">
+                                        <div class="product-item-actions">
+                                                                                            <div class="actions-primary">
+                                                                                                                                                                    <form data-role="tocart-form" data-product-sku="24-WB04" action="http://bharat.magentotest.com:8081/checkout/cart/add/uenc/aHR0cDovL2JoYXJhdC5tYWdlbnRvdGVzdC5jb206ODA4MS8~/product/14/" method="post">
+                                                            <input type="hidden" name="product" value="14">
+                                                            <input type="hidden" name="uenc" value="aHR0cDovL2JoYXJhdC5tYWdlbnRvdGVzdC5jb206ODA4MS9jaGVja291dC9jYXJ0L2FkZC91ZW5jL2FIUjBjRG92TDJKb1lYSmhkQzV0WVdkbGJuUnZkR1Z6ZEM1amIyMDZPREE0TVM4fi9wcm9kdWN0LzE0Lw~~">
+                                                            <input name="form_key" type="hidden" value="mHNDdVuROhbkhVQz" />                                                            <button type="submit"
+                                                                    title="Add to Cart"
+                                                                    class="action tocart primary">
+                                                                <span>Add to Cart</span>
+                                                            </button>
+                                                        </form>
+                                                                                                    </div>
+                                                                                                                                        <div class="actions-secondary" data-role="add-to-links">
+                                                                                                            <a href="#"
+                                                           data-post='{"action":"http:\/\/bharat.magentotest.com:8081\/wishlist\/index\/add\/","data":{"product":14,"uenc":"aHR0cDovL2JoYXJhdC5tYWdlbnRvdGVzdC5jb206ODA4MS8~"}}' class="action towishlist" data-action="add-to-wishlist" title="Add&#x20;to&#x20;Wish&#x20;List">
+                                                            <span>Add to Wish List</span>
+                                                        </a>
+                                                                                                                                                                                                                        <a href="#" class="action tocompare" data-post='{"action":"http:\/\/bharat.magentotest.com:8081\/catalog\/product_compare\/add\/","data":{"product":"14","uenc":"aHR0cDovL2JoYXJhdC5tYWdlbnRvdGVzdC5jb206ODA4MS8~"}}' title="Add&#x20;to&#x20;Compare">
+                                                            <span>Add to Compare</span>
+                                                        </a>
+                                                                                                    </div>
+                                                                                    </div>
+                                    </div>
+                                                            </div>
+                        </div>
+                        </li>                                    </ol>
+            </div>
+                    </div>
+    </div>
+        <script type="text/x-magento-init">
+    {
+        ".block.widget [data-role=tocart-form]": {
+            "Magento_Catalog/js/validate-product": {}
+        }
+    }
+    </script>
+    

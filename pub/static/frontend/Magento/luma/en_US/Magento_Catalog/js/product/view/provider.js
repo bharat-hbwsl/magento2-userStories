@@ -1,0 +1,1 @@
+/var/www/html/magento2-test/vendor/magento/module-catalog/view/frontend/web/js/product/view/provider.js
