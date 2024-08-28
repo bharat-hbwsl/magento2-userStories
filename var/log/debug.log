@@ -10055,3 +10055,128 @@ Verify the XML and try again. [] []
 [2024-08-28T05:23:09.795240+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"tags":["WEBSERVICE"],"mode":"matchingTag"}} []
 [2024-08-28T05:23:09.796374+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"tags":["TRANSLATE"],"mode":"matchingTag"}} []
 [2024-08-28T05:23:16.094599+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"tags":["FPC"],"mode":"matchingTag"}} []
+[2024-08-28T06:29:54.328653+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"tags":["FPC"],"mode":"matchingTag"}} []
+[2024-08-28T06:31:49.514519+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"tags":["FPC"],"mode":"matchingTag"}} []
+[2024-08-28T06:44:26.721316+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"tags":["FPC"],"mode":"matchingTag"}} []
+[2024-08-28T06:44:59.095743+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"tags":["FPC"],"mode":"matchingTag"}} []
+[2024-08-28T06:44:59.098384+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"tags":["CONFIG"],"mode":"matchingTag"}} []
+[2024-08-28T06:44:59.099424+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"tags":["LAYOUT_GENERAL_CACHE_TAG"],"mode":"matchingTag"}} []
+[2024-08-28T06:44:59.100312+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"tags":["BLOCK_HTML"],"mode":"matchingTag"}} []
+[2024-08-28T06:44:59.101042+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"tags":["COLLECTION_DATA"],"mode":"matchingTag"}} []
+[2024-08-28T06:44:59.101751+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"tags":["REFLECTION"],"mode":"matchingTag"}} []
+[2024-08-28T06:44:59.102567+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"tags":["DB_DDL"],"mode":"matchingTag"}} []
+[2024-08-28T06:44:59.103274+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"tags":["COMPILED_CONFIG"],"mode":"matchingTag"}} []
+[2024-08-28T06:44:59.104074+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"tags":["EAV"],"mode":"matchingTag"}} []
+[2024-08-28T06:44:59.104757+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"tags":["CUSTOMER_NOTIFICATION"],"mode":"matchingTag"}} []
+[2024-08-28T06:44:59.105434+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"tags":["INTEGRATION"],"mode":"matchingTag"}} []
+[2024-08-28T06:44:59.106107+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"tags":["INTEGRATION_API_CONFIG"],"mode":"matchingTag"}} []
+[2024-08-28T06:44:59.106941+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"tags":["FPC"],"mode":"matchingTag"}} []
+[2024-08-28T06:44:59.107751+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"tags":["WEBSERVICE"],"mode":"matchingTag"}} []
+[2024-08-28T06:44:59.108591+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"tags":["TRANSLATE"],"mode":"matchingTag"}} []
+[2024-08-28T06:45:07.517779+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"tags":["FPC"],"mode":"matchingTag"}} []
+[2024-08-28T06:48:24.490835+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"tags":["FPC"],"mode":"matchingTag"}} []
+[2024-08-28T06:48:32.687422+00:00] main.INFO: Theme layout update file '/var/www/html/magento2-test/app/code/Bharat/HelloWorld/view/frontend/layout/helloworld_index_index.xml' is not valid.
+attributes construct error
+ Line: 2
+Couldn't find end of Start Tag page line 2
+ Line: 2
+Extra content at the end of the document
+ Line: 2 [] []
+[2024-08-28T06:48:32.688193+00:00] main.ERROR: Theme layout update file '/var/www/html/magento2-test/app/code/Bharat/HelloWorld/view/frontend/layout/helloworld_index_index.xml' is not valid.
+attributes construct error
+ Line: 2
+Couldn't find end of Start Tag page line 2
+ Line: 2
+Extra content at the end of the document
+ Line: 2 [] []
+[2024-08-28T06:48:32.840600+00:00] main.INFO: Theme layout update file '/var/www/html/magento2-test/app/code/Bharat/HelloWorld/view/frontend/layout/helloworld_index_index.xml' is not valid.
+attributes construct error
+ Line: 2
+Couldn't find end of Start Tag page line 2
+ Line: 2
+Extra content at the end of the document
+ Line: 2 [] []
+[2024-08-28T06:48:32.841044+00:00] main.ERROR: Theme layout update file '/var/www/html/magento2-test/app/code/Bharat/HelloWorld/view/frontend/layout/helloworld_index_index.xml' is not valid.
+attributes construct error
+ Line: 2
+Couldn't find end of Start Tag page line 2
+ Line: 2
+Extra content at the end of the document
+ Line: 2 [] []
+[2024-08-28T06:49:23.034642+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"tags":["FPC"],"mode":"matchingTag"}} []
+[2024-08-28T06:49:29.651440+00:00] main.INFO: Theme layout update file '/var/www/html/magento2-test/app/code/Bharat/HelloWorld/view/frontend/layout/helloworld_index_index.xml' is not valid.
+attributes construct error
+ Line: 2
+Couldn't find end of Start Tag page line 2
+ Line: 2
+Extra content at the end of the document
+ Line: 2 [] []
+[2024-08-28T06:49:29.651915+00:00] main.ERROR: Theme layout update file '/var/www/html/magento2-test/app/code/Bharat/HelloWorld/view/frontend/layout/helloworld_index_index.xml' is not valid.
+attributes construct error
+ Line: 2
+Couldn't find end of Start Tag page line 2
+ Line: 2
+Extra content at the end of the document
+ Line: 2 [] []
+[2024-08-28T06:49:29.793100+00:00] main.INFO: Theme layout update file '/var/www/html/magento2-test/app/code/Bharat/HelloWorld/view/frontend/layout/helloworld_index_index.xml' is not valid.
+attributes construct error
+ Line: 2
+Couldn't find end of Start Tag page line 2
+ Line: 2
+Extra content at the end of the document
+ Line: 2 [] []
+[2024-08-28T06:49:29.793543+00:00] main.ERROR: Theme layout update file '/var/www/html/magento2-test/app/code/Bharat/HelloWorld/view/frontend/layout/helloworld_index_index.xml' is not valid.
+attributes construct error
+ Line: 2
+Couldn't find end of Start Tag page line 2
+ Line: 2
+Extra content at the end of the document
+ Line: 2 [] []
+[2024-08-28T06:49:34.885029+00:00] main.INFO: Theme layout update file '/var/www/html/magento2-test/app/code/Bharat/HelloWorld/view/frontend/layout/helloworld_index_index.xml' is not valid.
+attributes construct error
+ Line: 2
+Couldn't find end of Start Tag page line 2
+ Line: 2
+Extra content at the end of the document
+ Line: 2 [] []
+[2024-08-28T06:49:34.885433+00:00] main.ERROR: Theme layout update file '/var/www/html/magento2-test/app/code/Bharat/HelloWorld/view/frontend/layout/helloworld_index_index.xml' is not valid.
+attributes construct error
+ Line: 2
+Couldn't find end of Start Tag page line 2
+ Line: 2
+Extra content at the end of the document
+ Line: 2 [] []
+[2024-08-28T06:49:35.002503+00:00] main.INFO: Theme layout update file '/var/www/html/magento2-test/app/code/Bharat/HelloWorld/view/frontend/layout/helloworld_index_index.xml' is not valid.
+attributes construct error
+ Line: 2
+Couldn't find end of Start Tag page line 2
+ Line: 2
+Extra content at the end of the document
+ Line: 2 [] []
+[2024-08-28T06:49:35.003302+00:00] main.ERROR: Theme layout update file '/var/www/html/magento2-test/app/code/Bharat/HelloWorld/view/frontend/layout/helloworld_index_index.xml' is not valid.
+attributes construct error
+ Line: 2
+Couldn't find end of Start Tag page line 2
+ Line: 2
+Extra content at the end of the document
+ Line: 2 [] []
+[2024-08-28T06:50:06.354300+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"tags":["FPC"],"mode":"matchingTag"}} []
+[2024-08-28T06:50:14.564952+00:00] main.INFO: Broken reference: the 'catalog.compare.sidebar' element cannot be added as child to 'sidebar.additional', because the latter doesn't exist [] []
+[2024-08-28T06:50:14.565275+00:00] main.INFO: Broken reference: the 'sale.reorder.sidebar' element cannot be added as child to 'sidebar.additional', because the latter doesn't exist [] []
+[2024-08-28T06:50:14.565545+00:00] main.INFO: Broken reference: the 'wishlist_sidebar' element cannot be added as child to 'sidebar.additional', because the latter doesn't exist [] []
+[2024-08-28T06:50:28.073652+00:00] main.INFO: Broken reference: the 'catalog.compare.sidebar' element cannot be added as child to 'sidebar.additional', because the latter doesn't exist [] []
+[2024-08-28T06:50:28.074018+00:00] main.INFO: Broken reference: the 'sale.reorder.sidebar' element cannot be added as child to 'sidebar.additional', because the latter doesn't exist [] []
+[2024-08-28T06:50:28.074366+00:00] main.INFO: Broken reference: the 'wishlist_sidebar' element cannot be added as child to 'sidebar.additional', because the latter doesn't exist [] []
+[2024-08-28T06:50:32.645164+00:00] main.INFO: Broken reference: the 'catalog.compare.sidebar' element cannot be added as child to 'sidebar.additional', because the latter doesn't exist [] []
+[2024-08-28T06:50:32.645503+00:00] main.INFO: Broken reference: the 'sale.reorder.sidebar' element cannot be added as child to 'sidebar.additional', because the latter doesn't exist [] []
+[2024-08-28T06:50:32.645768+00:00] main.INFO: Broken reference: the 'wishlist_sidebar' element cannot be added as child to 'sidebar.additional', because the latter doesn't exist [] []
+[2024-08-28T06:50:32.645993+00:00] main.INFO: Broken reference: the 'paypal.partner.right.logo' element cannot be added as child to 'sidebar.additional', because the latter doesn't exist [] []
+[2024-08-28T06:50:32.646196+00:00] main.INFO: Broken reference: the 'bml.right.logo' element cannot be added as child to 'sidebar.additional', because the latter doesn't exist [] []
+[2024-08-28T06:50:32.646474+00:00] main.INFO: Broken reference: the 'sidebar.container.paylater' element cannot be added as child to 'sidebar.additional', because the latter doesn't exist [] []
+[2024-08-28T06:50:43.054246+00:00] main.INFO: Broken reference: the 'catalog.compare.sidebar' element cannot be added as child to 'sidebar.additional', because the latter doesn't exist [] []
+[2024-08-28T06:50:43.054655+00:00] main.INFO: Broken reference: the 'sale.reorder.sidebar' element cannot be added as child to 'sidebar.additional', because the latter doesn't exist [] []
+[2024-08-28T06:50:43.054944+00:00] main.INFO: Broken reference: the 'wishlist_sidebar' element cannot be added as child to 'sidebar.additional', because the latter doesn't exist [] []
+[2024-08-28T06:52:27.842535+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"tags":["FPC"],"mode":"matchingTag"}} []
+[2024-08-28T06:52:39.624848+00:00] main.INFO: Broken reference: the 'catalog.compare.sidebar' element cannot be added as child to 'sidebar.additional', because the latter doesn't exist [] []
+[2024-08-28T06:52:39.625292+00:00] main.INFO: Broken reference: the 'sale.reorder.sidebar' element cannot be added as child to 'sidebar.additional', because the latter doesn't exist [] []
+[2024-08-28T06:52:39.625565+00:00] main.INFO: Broken reference: the 'wishlist_sidebar' element cannot be added as child to 'sidebar.additional', because the latter doesn't exist [] []

@@ -661,3 +661,105 @@ Element 'route', attribute 'frontname': The attribute 'frontname' is not allowed
 Line: 4
 
 Verify the XML and try again. [] []
+[2024-08-28T06:48:32.687422+00:00] main.INFO: Theme layout update file '/var/www/html/magento2-test/app/code/Bharat/HelloWorld/view/frontend/layout/helloworld_index_index.xml' is not valid.
+attributes construct error
+ Line: 2
+Couldn't find end of Start Tag page line 2
+ Line: 2
+Extra content at the end of the document
+ Line: 2 [] []
+[2024-08-28T06:48:32.688193+00:00] main.ERROR: Theme layout update file '/var/www/html/magento2-test/app/code/Bharat/HelloWorld/view/frontend/layout/helloworld_index_index.xml' is not valid.
+attributes construct error
+ Line: 2
+Couldn't find end of Start Tag page line 2
+ Line: 2
+Extra content at the end of the document
+ Line: 2 [] []
+[2024-08-28T06:48:32.840600+00:00] main.INFO: Theme layout update file '/var/www/html/magento2-test/app/code/Bharat/HelloWorld/view/frontend/layout/helloworld_index_index.xml' is not valid.
+attributes construct error
+ Line: 2
+Couldn't find end of Start Tag page line 2
+ Line: 2
+Extra content at the end of the document
+ Line: 2 [] []
+[2024-08-28T06:48:32.841044+00:00] main.ERROR: Theme layout update file '/var/www/html/magento2-test/app/code/Bharat/HelloWorld/view/frontend/layout/helloworld_index_index.xml' is not valid.
+attributes construct error
+ Line: 2
+Couldn't find end of Start Tag page line 2
+ Line: 2
+Extra content at the end of the document
+ Line: 2 [] []
+[2024-08-28T06:49:29.651440+00:00] main.INFO: Theme layout update file '/var/www/html/magento2-test/app/code/Bharat/HelloWorld/view/frontend/layout/helloworld_index_index.xml' is not valid.
+attributes construct error
+ Line: 2
+Couldn't find end of Start Tag page line 2
+ Line: 2
+Extra content at the end of the document
+ Line: 2 [] []
+[2024-08-28T06:49:29.651915+00:00] main.ERROR: Theme layout update file '/var/www/html/magento2-test/app/code/Bharat/HelloWorld/view/frontend/layout/helloworld_index_index.xml' is not valid.
+attributes construct error
+ Line: 2
+Couldn't find end of Start Tag page line 2
+ Line: 2
+Extra content at the end of the document
+ Line: 2 [] []
+[2024-08-28T06:49:29.793100+00:00] main.INFO: Theme layout update file '/var/www/html/magento2-test/app/code/Bharat/HelloWorld/view/frontend/layout/helloworld_index_index.xml' is not valid.
+attributes construct error
+ Line: 2
+Couldn't find end of Start Tag page line 2
+ Line: 2
+Extra content at the end of the document
+ Line: 2 [] []
+[2024-08-28T06:49:29.793543+00:00] main.ERROR: Theme layout update file '/var/www/html/magento2-test/app/code/Bharat/HelloWorld/view/frontend/layout/helloworld_index_index.xml' is not valid.
+attributes construct error
+ Line: 2
+Couldn't find end of Start Tag page line 2
+ Line: 2
+Extra content at the end of the document
+ Line: 2 [] []
+[2024-08-28T06:49:34.885029+00:00] main.INFO: Theme layout update file '/var/www/html/magento2-test/app/code/Bharat/HelloWorld/view/frontend/layout/helloworld_index_index.xml' is not valid.
+attributes construct error
+ Line: 2
+Couldn't find end of Start Tag page line 2
+ Line: 2
+Extra content at the end of the document
+ Line: 2 [] []
+[2024-08-28T06:49:34.885433+00:00] main.ERROR: Theme layout update file '/var/www/html/magento2-test/app/code/Bharat/HelloWorld/view/frontend/layout/helloworld_index_index.xml' is not valid.
+attributes construct error
+ Line: 2
+Couldn't find end of Start Tag page line 2
+ Line: 2
+Extra content at the end of the document
+ Line: 2 [] []
+[2024-08-28T06:49:35.002503+00:00] main.INFO: Theme layout update file '/var/www/html/magento2-test/app/code/Bharat/HelloWorld/view/frontend/layout/helloworld_index_index.xml' is not valid.
+attributes construct error
+ Line: 2
+Couldn't find end of Start Tag page line 2
+ Line: 2
+Extra content at the end of the document
+ Line: 2 [] []
+[2024-08-28T06:49:35.003302+00:00] main.ERROR: Theme layout update file '/var/www/html/magento2-test/app/code/Bharat/HelloWorld/view/frontend/layout/helloworld_index_index.xml' is not valid.
+attributes construct error
+ Line: 2
+Couldn't find end of Start Tag page line 2
+ Line: 2
+Extra content at the end of the document
+ Line: 2 [] []
+[2024-08-28T06:50:14.564952+00:00] main.INFO: Broken reference: the 'catalog.compare.sidebar' element cannot be added as child to 'sidebar.additional', because the latter doesn't exist [] []
+[2024-08-28T06:50:14.565275+00:00] main.INFO: Broken reference: the 'sale.reorder.sidebar' element cannot be added as child to 'sidebar.additional', because the latter doesn't exist [] []
+[2024-08-28T06:50:14.565545+00:00] main.INFO: Broken reference: the 'wishlist_sidebar' element cannot be added as child to 'sidebar.additional', because the latter doesn't exist [] []
+[2024-08-28T06:50:28.073652+00:00] main.INFO: Broken reference: the 'catalog.compare.sidebar' element cannot be added as child to 'sidebar.additional', because the latter doesn't exist [] []
+[2024-08-28T06:50:28.074018+00:00] main.INFO: Broken reference: the 'sale.reorder.sidebar' element cannot be added as child to 'sidebar.additional', because the latter doesn't exist [] []
+[2024-08-28T06:50:28.074366+00:00] main.INFO: Broken reference: the 'wishlist_sidebar' element cannot be added as child to 'sidebar.additional', because the latter doesn't exist [] []
+[2024-08-28T06:50:32.645164+00:00] main.INFO: Broken reference: the 'catalog.compare.sidebar' element cannot be added as child to 'sidebar.additional', because the latter doesn't exist [] []
+[2024-08-28T06:50:32.645503+00:00] main.INFO: Broken reference: the 'sale.reorder.sidebar' element cannot be added as child to 'sidebar.additional', because the latter doesn't exist [] []
+[2024-08-28T06:50:32.645768+00:00] main.INFO: Broken reference: the 'wishlist_sidebar' element cannot be added as child to 'sidebar.additional', because the latter doesn't exist [] []
+[2024-08-28T06:50:32.645993+00:00] main.INFO: Broken reference: the 'paypal.partner.right.logo' element cannot be added as child to 'sidebar.additional', because the latter doesn't exist [] []
+[2024-08-28T06:50:32.646196+00:00] main.INFO: Broken reference: the 'bml.right.logo' element cannot be added as child to 'sidebar.additional', because the latter doesn't exist [] []
+[2024-08-28T06:50:32.646474+00:00] main.INFO: Broken reference: the 'sidebar.container.paylater' element cannot be added as child to 'sidebar.additional', because the latter doesn't exist [] []
+[2024-08-28T06:50:43.054246+00:00] main.INFO: Broken reference: the 'catalog.compare.sidebar' element cannot be added as child to 'sidebar.additional', because the latter doesn't exist [] []
+[2024-08-28T06:50:43.054655+00:00] main.INFO: Broken reference: the 'sale.reorder.sidebar' element cannot be added as child to 'sidebar.additional', because the latter doesn't exist [] []
+[2024-08-28T06:50:43.054944+00:00] main.INFO: Broken reference: the 'wishlist_sidebar' element cannot be added as child to 'sidebar.additional', because the latter doesn't exist [] []
+[2024-08-28T06:52:39.624848+00:00] main.INFO: Broken reference: the 'catalog.compare.sidebar' element cannot be added as child to 'sidebar.additional', because the latter doesn't exist [] []
+[2024-08-28T06:52:39.625292+00:00] main.INFO: Broken reference: the 'sale.reorder.sidebar' element cannot be added as child to 'sidebar.additional', because the latter doesn't exist [] []
+[2024-08-28T06:52:39.625565+00:00] main.INFO: Broken reference: the 'wishlist_sidebar' element cannot be added as child to 'sidebar.additional', because the latter doesn't exist [] []

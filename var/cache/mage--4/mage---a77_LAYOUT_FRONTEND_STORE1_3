@@ -1,4 +1,4 @@
-a:4:{s:4:"hash";s:0:"";s:5:"mtime";i:1724822606;s:6:"expire";i:1756358606;s:4:"tags";s:37:"a77_LAYOUT_GENERAL_CACHE_TAG,a77_MAGE";}
+a:4:{s:4:"hash";s:0:"";s:5:"mtime";i:1724827959;s:6:"expire";i:1756363959;s:4:"tags";s:37:"a77_LAYOUT_GENERAL_CACHE_TAG,a77_MAGE";}
 <?xml version="1.0"?>
 <layouts xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><handle id="catalog_category_view"><body/>
 </handle><handle id="catalogsearch_advanced_index"><body/>
@@ -6920,6 +6920,9 @@ a:4:{s:4:"hash";s:0:"";s:5:"mtime";i:1724822606;s:6:"expire";i:1756358606;s:4:"t
       <block class="Magento\Wishlist\Block\Share\Wishlist" name="customer.wishlist" template="Magento_Wishlist::shared.phtml" cacheable="false"/>
    </referenceContainer>
 </body>
+</handle><handle id="helloworld_index_index" layout="1column"><referenceContainer name="content">
+   <block class="Bharat\HelloWorld\Block\Index" name="helloworld_index_index" template="Bharat_HelloWorld::index.phtml"/>
+</referenceContainer>
 </handle><handle id="braintree_googlepay_review" layout="1column"><head>
    <title>Review Order</title>
 </head>
