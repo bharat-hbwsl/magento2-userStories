@@ -1,0 +1,1 @@
+/var/www/html/magento2-test/lib/web/jquery/spectrum/tinycolor.js

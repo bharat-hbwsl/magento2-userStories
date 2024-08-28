@@ -613,3 +613,51 @@ If you still want to deploy in these modes, use -f option: 'bin/magento setup:st
 [2024-08-28T04:54:41.221005+00:00] main.CRITICAL: Unable to resolve the source file for 'frontend/Magento/luma/en_US/magnifier/magnify.js' [] []
 [2024-08-28T04:54:41.479117+00:00] main.ERROR: Unable to resolve the source file for 'frontend/Magento/luma/en_US/vimeo/vimeo-wrapper.js' [] []
 [2024-08-28T04:54:41.479934+00:00] main.CRITICAL: Unable to resolve the source file for 'frontend/Magento/luma/en_US/vimeo/vimeo-wrapper.js' [] []
+[2024-08-28T05:05:43.564327+00:00] main.WARNING: Memory size allocated for the temporary table is more than 20% of innodb_buffer_pool_size. Please update innodb_buffer_pool_size or decrease batch size value (which decreases memory usages for the temporary table). Current batch size: 100000; Allocated memory size: 40000000 bytes; InnoDB buffer pool size: 134217728 bytes. [] []
+[2024-08-28T05:05:43.598216+00:00] main.WARNING: Memory size allocated for the temporary table is more than 20% of innodb_buffer_pool_size. Please update innodb_buffer_pool_size or decrease batch size value (which decreases memory usages for the temporary table). Current batch size: 100000; Allocated memory size: 40000000 bytes; InnoDB buffer pool size: 134217728 bytes. [] []
+[2024-08-28T05:05:43.609471+00:00] main.WARNING: Memory size allocated for the temporary table is more than 20% of innodb_buffer_pool_size. Please update innodb_buffer_pool_size or decrease batch size value (which decreases memory usages for the temporary table). Current batch size: 100000; Allocated memory size: 40000000 bytes; InnoDB buffer pool size: 134217728 bytes. [] []
+[2024-08-28T05:05:43.836223+00:00] main.WARNING: Memory size allocated for the temporary table is more than 20% of innodb_buffer_pool_size. Please update innodb_buffer_pool_size or decrease batch size value (which decreases memory usages for the temporary table). Current batch size: 100000; Allocated memory size: 40000000 bytes; InnoDB buffer pool size: 134217728 bytes. [] []
+[2024-08-28T05:05:43.864181+00:00] main.WARNING: Memory size allocated for the temporary table is more than 20% of innodb_buffer_pool_size. Please update innodb_buffer_pool_size or decrease batch size value (which decreases memory usages for the temporary table). Current batch size: 100000; Allocated memory size: 40000000 bytes; InnoDB buffer pool size: 134217728 bytes. [] []
+[2024-08-28T05:05:43.876248+00:00] main.WARNING: Memory size allocated for the temporary table is more than 20% of innodb_buffer_pool_size. Please update innodb_buffer_pool_size or decrease batch size value (which decreases memory usages for the temporary table). Current batch size: 100000; Allocated memory size: 40000000 bytes; InnoDB buffer pool size: 134217728 bytes. [] []
+[2024-08-28T05:05:45.740238+00:00] main.WARNING: Memory size allocated for the temporary table is more than 20% of innodb_buffer_pool_size. Please update innodb_buffer_pool_size or decrease batch size value (which decreases memory usages for the temporary table). Current batch size: 6250; Allocated memory size: 40000000 bytes; InnoDB buffer pool size: 134217728 bytes. [] []
+[2024-08-28T05:11:48.892811+00:00] main.WARNING: Memory size allocated for the temporary table is more than 20% of innodb_buffer_pool_size. Please update innodb_buffer_pool_size or decrease batch size value (which decreases memory usages for the temporary table). Current batch size: 100000; Allocated memory size: 40000000 bytes; InnoDB buffer pool size: 134217728 bytes. [] []
+[2024-08-28T05:11:48.922603+00:00] main.WARNING: Memory size allocated for the temporary table is more than 20% of innodb_buffer_pool_size. Please update innodb_buffer_pool_size or decrease batch size value (which decreases memory usages for the temporary table). Current batch size: 100000; Allocated memory size: 40000000 bytes; InnoDB buffer pool size: 134217728 bytes. [] []
+[2024-08-28T05:11:48.932775+00:00] main.WARNING: Memory size allocated for the temporary table is more than 20% of innodb_buffer_pool_size. Please update innodb_buffer_pool_size or decrease batch size value (which decreases memory usages for the temporary table). Current batch size: 100000; Allocated memory size: 40000000 bytes; InnoDB buffer pool size: 134217728 bytes. [] []
+[2024-08-28T05:11:49.142805+00:00] main.WARNING: Memory size allocated for the temporary table is more than 20% of innodb_buffer_pool_size. Please update innodb_buffer_pool_size or decrease batch size value (which decreases memory usages for the temporary table). Current batch size: 100000; Allocated memory size: 40000000 bytes; InnoDB buffer pool size: 134217728 bytes. [] []
+[2024-08-28T05:11:49.170926+00:00] main.WARNING: Memory size allocated for the temporary table is more than 20% of innodb_buffer_pool_size. Please update innodb_buffer_pool_size or decrease batch size value (which decreases memory usages for the temporary table). Current batch size: 100000; Allocated memory size: 40000000 bytes; InnoDB buffer pool size: 134217728 bytes. [] []
+[2024-08-28T05:11:49.185321+00:00] main.WARNING: Memory size allocated for the temporary table is more than 20% of innodb_buffer_pool_size. Please update innodb_buffer_pool_size or decrease batch size value (which decreases memory usages for the temporary table). Current batch size: 100000; Allocated memory size: 40000000 bytes; InnoDB buffer pool size: 134217728 bytes. [] []
+[2024-08-28T05:11:51.114542+00:00] main.WARNING: Memory size allocated for the temporary table is more than 20% of innodb_buffer_pool_size. Please update innodb_buffer_pool_size or decrease batch size value (which decreases memory usages for the temporary table). Current batch size: 6250; Allocated memory size: 40000000 bytes; InnoDB buffer pool size: 134217728 bytes. [] []
+[2024-08-28T05:20:05.647481+00:00] main.ERROR: The XML in file "/var/www/html/magento2-test/app/code/Bharat/HelloWorld/etc/frontend/routes.xml" is invalid:
+Element 'route', attribute 'frontname': The attribute 'frontname' is not allowed.
+Line: 4
+
+Element 'module': Character content is not allowed, because the content type is empty.
+Line: 5
+
+Verify the XML and try again. [] []
+[2024-08-28T05:20:08.075523+00:00] main.ERROR: The XML in file "/var/www/html/magento2-test/app/code/Bharat/HelloWorld/etc/frontend/routes.xml" is invalid:
+Element 'route', attribute 'frontname': The attribute 'frontname' is not allowed.
+Line: 4
+
+Element 'module': Character content is not allowed, because the content type is empty.
+Line: 5
+
+Verify the XML and try again. [] []
+[2024-08-28T05:20:08.342924+00:00] main.ERROR: The XML in file "/var/www/html/magento2-test/app/code/Bharat/HelloWorld/etc/frontend/routes.xml" is invalid:
+Element 'route', attribute 'frontname': The attribute 'frontname' is not allowed.
+Line: 4
+
+Element 'module': Character content is not allowed, because the content type is empty.
+Line: 5
+
+Verify the XML and try again. [] []
+[2024-08-28T05:22:26.715480+00:00] main.ERROR: The XML in file "/var/www/html/magento2-test/app/code/Bharat/HelloWorld/etc/frontend/routes.xml" is invalid:
+Element 'route', attribute 'frontname': The attribute 'frontname' is not allowed.
+Line: 4
+
+Verify the XML and try again. [] []
+[2024-08-28T05:22:26.965179+00:00] main.ERROR: The XML in file "/var/www/html/magento2-test/app/code/Bharat/HelloWorld/etc/frontend/routes.xml" is invalid:
+Element 'route', attribute 'frontname': The attribute 'frontname' is not allowed.
+Line: 4
+
+Verify the XML and try again. [] []
