@@ -12,4 +12,7 @@
     <type name="Magento\Theme\Block\Html\Header">
         <plugin name="custom_welcome_plugin" type="Bharat\Mod2\Plugin\DesignPlugin" />
     </type>
+    <type name="Magento\Catalog\Block\Product\ListProduct">
+        <plugin name="product_logo_plugin" type="Bharat\Mod2\Plugin\LogoPlugin" />
+    </type>
 </config>
