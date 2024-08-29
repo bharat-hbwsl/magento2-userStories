@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <config xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:magento:framework:ObjectManager/etc/config.xsd">
     <preference for="Magento\Catalog\Api\Data\CategoryInterface" type="Bharat\Mod1\Model\CustomCategory" />
-    
+
     <type name="Bharat\Mod1\Test1">
         <arguments>
             <argument name="dataArray" xsi:type="array">
@@ -9,6 +9,7 @@
                 <item name="key2" xsi:type="string">value2</item>
             </argument>
             <argument name="textString" xsi:type="string">Hello, World!</argument>
+            <argument name="logger" xsi:type="object">Psr\Log\LoggerInterface</argument>
         </arguments>
     </type>
 </config>

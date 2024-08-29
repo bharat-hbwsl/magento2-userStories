@@ -1,0 +1,54 @@
+# Magento generated folders
+/generated/
+/var/
+/pub/static/
+/pub/media/tmp/
+/pub/media/catalog/product/cache/
+/app/etc/env.php
+
+# Composer dependencies and vendor folder
+/vendor/
+
+# Node.js related files
+/node_modules/
+*.log
+
+# IDE or Editor specific files
+.idea/
+/.vscode/
+
+# Backup and miscellaneous system files
+*.swp
+*.swo
+.DS_Store
+Thumbs.db
+
+# Deployment specific files
+/deploy/
+
+# Magento caches
+/report/
+/auth.json
+/var/cache/
+/var/page_cache/
+/var/view_preprocessed/
+
+# Magento logs
+/var/log/
+/var/session/
+
+# Temporary files
+*.gz
+*.zip
+*.tar
+*.log
+
+# PHPUnit
+.phpunit.result.cache
+
+grumphp.yml
+
+# Ignore static assets that are generated automatically
+/var/view_preprocessed/
+/pub/static/adminhtml/
+/pub/static/frontend/
