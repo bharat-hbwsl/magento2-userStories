@@ -11,7 +11,8 @@
             "dealerdirect/phpcodesniffer-composer-installer": true,
             "laminas/laminas-dependency-plugin": true,
             "magento/*": true,
-            "php-http/discovery": true
+            "php-http/discovery": true,
+            "phpro/grumphp": true
         },
         "preferred-install": "dist",
         "sort-packages": true
@@ -73,6 +74,7 @@
         "magento/magento2-functional-testing-framework": "^4.2.1",
         "pdepend/pdepend": "^2.10",
         "phpmd/phpmd": "^2.12",
+        "phpro/grumphp": "^2.7",
         "phpstan/phpstan": "^1.9",
         "phpunit/phpunit": "^9.5",
         "sebastian/phpcpd": "^6.0",

@@ -72,6 +72,9 @@ class ComposerStaticInit31e137add59e34cc8958c98f406e953f
         'b0531590328134738333bdd60add673f' => __DIR__ . '/..' . '/magento/module-re-captcha-validation-api/registration.php',
         '4725125cbaeab31cd4e5c5c07061fa43' => __DIR__ . '/..' . '/magento/module-payment/registration.php',
         'beef4a50b960435d4b145e8d222f5f10' => __DIR__ . '/..' . '/magento/module-configurable-product/registration.php',
+        '88254829cb0eed057c30eaabb6d8edc4' => __DIR__ . '/..' . '/amphp/amp/src/functions.php',
+        '429ae5f14a13a9076791c19422e10996' => __DIR__ . '/..' . '/amphp/amp/src/Future/functions.php',
+        'c8601a4144b50a7b548da082c89c4dc1' => __DIR__ . '/..' . '/amphp/amp/src/Internal/functions.php',
         '73a8e4290482dda77755fd5545cb64f4' => __DIR__ . '/..' . '/magento/module-webapi/registration.php',
         '7d65523658f618d8d26b8219ea46bbd7' => __DIR__ . '/..' . '/magento/module-indexer/registration.php',
         'fc5563a6d8ed33909f8031d05dec9433' => __DIR__ . '/..' . '/magento/module-catalog-search/registration.php',
@@ -84,6 +87,7 @@ class ComposerStaticInit31e137add59e34cc8958c98f406e953f
         '53814a716d73013b1489c928a2cb4164' => __DIR__ . '/..' . '/magento/module-shipping/registration.php',
         'a6d2049b4013058aebdab5256bfc92a1' => __DIR__ . '/..' . '/magento/module-import-export/registration.php',
         '4184a5a46cdac827c1939d0d3b4372cd' => __DIR__ . '/..' . '/magento/module-inventory-reservations-api/registration.php',
+        '3da389f428d8ee50333e4391c3f45046' => __DIR__ . '/..' . '/amphp/serialization/src/functions.php',
         '37682718cb9a8dd7fe10ec90b2ea2437' => __DIR__ . '/..' . '/magento/module-inventory-source-deduction-api/registration.php',
         '59f72ba1d3bbb4abbbf6ef3ac8336598' => __DIR__ . '/..' . '/magento/module-inventory-multi-dimensional-indexer-api/registration.php',
         '55aca85371db847a036438dc47c5adf7' => __DIR__ . '/..' . '/magento/module-sales-inventory/registration.php',
@@ -91,6 +95,7 @@ class ComposerStaticInit31e137add59e34cc8958c98f406e953f
         '157e241791c95df2d41c00e4314f115e' => __DIR__ . '/..' . '/magento/module-search/registration.php',
         'a09428fb5202148efdc033b11ca2bc1c' => __DIR__ . '/..' . '/magento/module-rule/registration.php',
         'aefa4ea9e2005b6976253d7b9a177c84' => __DIR__ . '/..' . '/magento/module-inventory-indexer/registration.php',
+        'bcb7d4fc55f4b1a7e10f5806723e9892' => __DIR__ . '/..' . '/amphp/sync/src/functions.php',
         '08592fdd5b9e829727a7db2f953d82b2' => __DIR__ . '/..' . '/magento/module-vault/registration.php',
         'ff4a42fb48f753f6d1e6177223059e3d' => __DIR__ . '/..' . '/magento/module-msrp/registration.php',
         'bb6621289f135d14ac7bffe9e45ad6ef' => __DIR__ . '/..' . '/magento/module-catalog-import-export/registration.php',
@@ -109,6 +114,8 @@ class ComposerStaticInit31e137add59e34cc8958c98f406e953f
         '5fb4035ebd843bb3a9ee62f27ace3d84' => __DIR__ . '/..' . '/magento/module-login-as-customer-api/registration.php',
         '2f522cf385c971ad85c792b852e13d71' => __DIR__ . '/..' . '/magento/module-customer-graph-ql/registration.php',
         '98e6b97cff34460cafeaceffce4c013c' => __DIR__ . '/..' . '/magento/module-inventory-in-store-pickup-shipping-api/registration.php',
+        '6c2681bc13923b80242cc286856cab22' => __DIR__ . '/..' . '/amphp/byte-stream/src/functions.php',
+        '4ee21bf8253a2272056aefb41f7f0116' => __DIR__ . '/..' . '/amphp/byte-stream/src/Internal/functions.php',
         'a8c41acf1bcf2c8c39616ad2b1e630fb' => __DIR__ . '/..' . '/magento/module-analytics/registration.php',
         '56f4400ce26dd5a5d1a6efb9e2f5d128' => __DIR__ . '/..' . '/magento/module-quote-graph-ql/registration.php',
         '8ace14821cff5beb90efc58dfd9c8b3b' => __DIR__ . '/..' . '/magento/module-media-gallery-synchronization-api/registration.php',
@@ -244,6 +251,7 @@ class ComposerStaticInit31e137add59e34cc8958c98f406e953f
         '4af1dca6db8c527c6eed27bff85ff0e5' => __DIR__ . '/..' . '/thecodingmachine/safe/generated/yaz.php',
         'fe43ca06499ac37bc2dedd823af71eb5' => __DIR__ . '/..' . '/thecodingmachine/safe/generated/zip.php',
         '356736db98a6834f0a886b8d509b0ecd' => __DIR__ . '/..' . '/thecodingmachine/safe/generated/zlib.php',
+        '107d0b55c0ad2d07d8643394552ac029' => __DIR__ . '/..' . '/amphp/process/src/functions.php',
         '41e3c70b13a38be15b2f71a5ab57282e' => __DIR__ . '/..' . '/magento/module-cron/registration.php',
         '31f9d3fe7417744d87bcb77e698734fb' => __DIR__ . '/..' . '/magento/module-media-content-synchronization-api/registration.php',
         '7262a266e3433bc7d1f53ddcb1dab374' => __DIR__ . '/..' . '/magento/module-multishipping/registration.php',
@@ -262,10 +270,12 @@ class ComposerStaticInit31e137add59e34cc8958c98f406e953f
         '7c4937fd3269103dd7ef4dd0720a571d' => __DIR__ . '/..' . '/magento/module-two-factor-auth/registration.php',
         '71dc2695e085cd08c5c05443ffbe009b' => __DIR__ . '/..' . '/magento/module-url-rewrite-graph-ql/registration.php',
         '07684b53e004b1beb749e8fbbdaf6247' => __DIR__ . '/..' . '/paypal/module-braintree-core/registration.php',
+        '445532134d762b3cbc25500cac266092' => __DIR__ . '/..' . '/daverandom/libdns/src/functions.php',
         '3f7befdb3fd10d6e2a914b0320605b6e' => __DIR__ . '/..' . '/magento/module-bundle-import-export/registration.php',
         '2ddc4473bbdcd41a59f431c47412cae7' => __DIR__ . '/..' . '/magento/module-media-gallery/registration.php',
         '668a338ed27950eb02c3ab30da6a3530' => __DIR__ . '/..' . '/magento/module-media-gallery-ui/registration.php',
         '3109cb1a231dcd04bee1f9f620d46975' => __DIR__ . '/..' . '/paragonie/sodium_compat/autoload.php',
+        'f4c761ca07639428acc28ba36643243e' => __DIR__ . '/..' . '/amphp/dns/src/functions.php',
         '71bec2022ce7910b2a55f98bbf437063' => __DIR__ . '/..' . '/magento/framework-amqp/registration.php',
         '6e774d6c013c430185b2f190fca89228' => __DIR__ . '/..' . '/magento/module-downloadable-graph-ql/registration.php',
         'f0a367f3327072458afd08ec8891b227' => __DIR__ . '/..' . '/magento/module-google-analytics/registration.php',
@@ -282,6 +292,9 @@ class ComposerStaticInit31e137add59e34cc8958c98f406e953f
         '3e066e7b5a29d63f855a7fafac672b08' => __DIR__ . '/..' . '/magento/module-weee/registration.php',
         '056cd8d2398ceabe9e3cff88f4cf877b' => __DIR__ . '/..' . '/magento/theme-frontend-blank/registration.php',
         '2a3c2110e8e0295330dc3d11a4cbc4cb' => __DIR__ . '/..' . '/php-webdriver/webdriver/lib/Exception/TimeoutException.php',
+        'd4e415514e4352172d58f02433fa50e4' => __DIR__ . '/..' . '/amphp/socket/src/functions.php',
+        '1c2dcb9d6851a7abaae89f9586ddd460' => __DIR__ . '/..' . '/amphp/socket/src/Internal/functions.php',
+        '7fec264e4908bd2976476a6241c3f4d0' => __DIR__ . '/..' . '/amphp/socket/src/SocketAddress/functions.php',
         'c7784b5ca2b82b30ead008049149530e' => __DIR__ . '/..' . '/magento/module-admin-adobe-ims-two-factor-auth/registration.php',
         '4ac3f6c2d619f3e9b6bf4a5dccd248ae' => __DIR__ . '/..' . '/magento/module-adobe-stock-admin-ui/registration.php',
         '94d725555edb780a62e4553d7cc7da81' => __DIR__ . '/..' . '/magento/module-adobe-stock-asset/registration.php',
@@ -361,6 +374,10 @@ class ComposerStaticInit31e137add59e34cc8958c98f406e953f
         '7adedf5aab7954091befcc50d50f5120' => __DIR__ . '/..' . '/paypal/module-braintree-graph-ql/registration.php',
         '9b38cf48e83f5d8f60375221cd213eee' => __DIR__ . '/..' . '/phpstan/phpstan/bootstrap.php',
         'b3af4141c2b6c2616b0e9b1109f7c2dd' => __DIR__ . '/..' . '/temando/module-shipping-remover/registration.php',
+        '5d92623b88cbe7c988a6aca6fa79ebce' => __DIR__ . '/..' . '/amphp/parallel/src/Context/functions.php',
+        'c20d640a0b06382af5bbe7e0c7475adf' => __DIR__ . '/..' . '/amphp/parallel/src/Context/Internal/functions.php',
+        '42a785d14bae29c606457755ffd1653b' => __DIR__ . '/..' . '/amphp/parallel/src/Ipc/functions.php',
+        '805558626a43dc52f2afc82368f8d62e' => __DIR__ . '/..' . '/amphp/parallel/src/Worker/functions.php',
         'a3b8fb13a112e3be232ab3c07b8a884f' => __DIR__ . '/..' . '/codeception/module-sequence/src/Codeception/Util/sq.php',
         '07d7f1a47144818725fd8d91a907ac57' => __DIR__ . '/..' . '/laminas/laminas-diactoros/src/functions/create_uploaded_file.php',
         'da94ac5d3ca7d2dbab84ce561ce72bfd' => __DIR__ . '/..' . '/laminas/laminas-diactoros/src/functions/marshal_headers_from_sapi.php',
@@ -584,6 +601,7 @@ class ComposerStaticInit31e137add59e34cc8958c98f406e953f
         ),
         'R' => 
         array (
+            'Revolt\\' => 7,
             'React\\Stream\\' => 13,
             'React\\Socket\\' => 13,
             'React\\Promise\\' => 14,
@@ -623,6 +641,7 @@ class ComposerStaticInit31e137add59e34cc8958c98f406e953f
         'O' => 
         array (
             'OpenSearch\\' => 11,
+            'OndraM\\CiDetector\\' => 18,
             'OTPHP\\' => 6,
         ),
         'M' => 
@@ -996,9 +1015,12 @@ class ComposerStaticInit31e137add59e34cc8958c98f406e953f
         ),
         'L' => 
         array (
+            'LibDNS\\' => 7,
+            'League\\Uri\\' => 11,
             'League\\MimeTypeDetection\\' => 25,
             'League\\Flysystem\\AwsS3V3\\' => 25,
             'League\\Flysystem\\' => 17,
+            'Laravel\\SerializableClosure\\' => 28,
             'Laminas\\View\\' => 13,
             'Laminas\\Validator\\' => 18,
             'Laminas\\Uri\\' => 12,
@@ -1035,6 +1057,10 @@ class ComposerStaticInit31e137add59e34cc8958c98f406e953f
             'Laminas\\Code\\' => 13,
             'Laminas\\Captcha\\' => 16,
         ),
+        'K' => 
+        array (
+            'Kelunik\\Certificate\\' => 20,
+        ),
         'J' => 
         array (
             'JsonSchema\\' => 11,
@@ -1053,7 +1079,9 @@ class ComposerStaticInit31e137add59e34cc8958c98f406e953f
             'GuzzleHttp\\' => 11,
             'Gt\\Dom\\' => 7,
             'Gt\\CssXPath\\' => 12,
+            'GrumPHP\\' => 8,
             'GraphQL\\' => 8,
+            'Gitonomy\\Git\\' => 13,
         ),
         'F' => 
         array (
@@ -1071,6 +1099,7 @@ class ComposerStaticInit31e137add59e34cc8958c98f406e953f
             'Doctrine\\Instantiator\\' => 22,
             'Doctrine\\Deprecations\\' => 22,
             'Doctrine\\Common\\Lexer\\' => 22,
+            'Doctrine\\Common\\Collections\\' => 28,
             'Doctrine\\Common\\Annotations\\' => 28,
             'DeepCopy\\' => 9,
             'Dealerdirect\\Composer\\Plugin\\Installers\\PHPCodeSniffer\\' => 55,
@@ -1102,6 +1131,18 @@ class ComposerStaticInit31e137add59e34cc8958c98f406e953f
         array (
             'Aws\\' => 4,
             'Assert\\' => 7,
+            'Amp\\WindowsRegistry\\' => 20,
+            'Amp\\Sync\\' => 9,
+            'Amp\\Socket\\' => 11,
+            'Amp\\Serialization\\' => 18,
+            'Amp\\Process\\' => 12,
+            'Amp\\Pipeline\\' => 13,
+            'Amp\\Parser\\' => 11,
+            'Amp\\Parallel\\' => 13,
+            'Amp\\Dns\\' => 8,
+            'Amp\\Cache\\' => 10,
+            'Amp\\ByteStream\\' => 15,
+            'Amp\\' => 4,
             'AdobeStock\\Api\\' => 15,
             'AESKW\\' => 6,
         ),
@@ -1288,6 +1329,10 @@ class ComposerStaticInit31e137add59e34cc8958c98f406e953f
         array (
             0 => __DIR__ . '/..' . '/sabberworm/php-css-parser/src',
         ),
+        'Revolt\\' => 
+        array (
+            0 => __DIR__ . '/..' . '/revolt/event-loop/src',
+        ),
         'React\\Stream\\' => 
         array (
             0 => __DIR__ . '/..' . '/react/stream/src',
@@ -1408,6 +1453,10 @@ class ComposerStaticInit31e137add59e34cc8958c98f406e953f
         'OpenSearch\\' => 
         array (
             0 => __DIR__ . '/..' . '/opensearch-project/opensearch-php/src/OpenSearch',
+        ),
+        'OndraM\\CiDetector\\' => 
+        array (
+            0 => __DIR__ . '/..' . '/ondram/ci-detector/src',
         ),
         'OTPHP\\' => 
         array (
@@ -2878,6 +2927,15 @@ class ComposerStaticInit31e137add59e34cc8958c98f406e953f
         array (
             0 => __DIR__ . '/..' . '/magento/magento2-functional-testing-framework/dev/tests/functional/tests/MFTF',
         ),
+        'LibDNS\\' => 
+        array (
+            0 => __DIR__ . '/..' . '/daverandom/libdns/src',
+        ),
+        'League\\Uri\\' => 
+        array (
+            0 => __DIR__ . '/..' . '/league/uri-interfaces',
+            1 => __DIR__ . '/..' . '/league/uri',
+        ),
         'League\\MimeTypeDetection\\' => 
         array (
             0 => __DIR__ . '/..' . '/league/mime-type-detection/src',
@@ -2889,6 +2947,10 @@ class ComposerStaticInit31e137add59e34cc8958c98f406e953f
         'League\\Flysystem\\' => 
         array (
             0 => __DIR__ . '/..' . '/league/flysystem/src',
+        ),
+        'Laravel\\SerializableClosure\\' => 
+        array (
+            0 => __DIR__ . '/..' . '/laravel/serializable-closure/src',
         ),
         'Laminas\\View\\' => 
         array (
@@ -3030,6 +3092,10 @@ class ComposerStaticInit31e137add59e34cc8958c98f406e953f
         array (
             0 => __DIR__ . '/..' . '/laminas/laminas-captcha/src',
         ),
+        'Kelunik\\Certificate\\' => 
+        array (
+            0 => __DIR__ . '/..' . '/kelunik/certificate/src',
+        ),
         'JsonSchema\\' => 
         array (
             0 => __DIR__ . '/..' . '/justinrainbow/json-schema/src/JsonSchema',
@@ -3082,9 +3148,17 @@ class ComposerStaticInit31e137add59e34cc8958c98f406e953f
         array (
             0 => __DIR__ . '/..' . '/phpgt/cssxpath/src',
         ),
+        'GrumPHP\\' => 
+        array (
+            0 => __DIR__ . '/..' . '/phpro/grumphp/src',
+        ),
         'GraphQL\\' => 
         array (
             0 => __DIR__ . '/..' . '/webonyx/graphql-php/src',
+        ),
+        'Gitonomy\\Git\\' => 
+        array (
+            0 => __DIR__ . '/..' . '/gitonomy/gitlib/src/Gitonomy/Git',
         ),
         'Fidry\\CpuCoreCounter\\' => 
         array (
@@ -3117,6 +3191,10 @@ class ComposerStaticInit31e137add59e34cc8958c98f406e953f
         'Doctrine\\Common\\Lexer\\' => 
         array (
             0 => __DIR__ . '/..' . '/doctrine/lexer/src',
+        ),
+        'Doctrine\\Common\\Collections\\' => 
+        array (
+            0 => __DIR__ . '/..' . '/doctrine/collections/src',
         ),
         'Doctrine\\Common\\Annotations\\' => 
         array (
@@ -3206,6 +3284,54 @@ class ComposerStaticInit31e137add59e34cc8958c98f406e953f
         'Assert\\' => 
         array (
             0 => __DIR__ . '/..' . '/beberlei/assert/lib/Assert',
+        ),
+        'Amp\\WindowsRegistry\\' => 
+        array (
+            0 => __DIR__ . '/..' . '/amphp/windows-registry/src',
+        ),
+        'Amp\\Sync\\' => 
+        array (
+            0 => __DIR__ . '/..' . '/amphp/sync/src',
+        ),
+        'Amp\\Socket\\' => 
+        array (
+            0 => __DIR__ . '/..' . '/amphp/socket/src',
+        ),
+        'Amp\\Serialization\\' => 
+        array (
+            0 => __DIR__ . '/..' . '/amphp/serialization/src',
+        ),
+        'Amp\\Process\\' => 
+        array (
+            0 => __DIR__ . '/..' . '/amphp/process/src',
+        ),
+        'Amp\\Pipeline\\' => 
+        array (
+            0 => __DIR__ . '/..' . '/amphp/pipeline/src',
+        ),
+        'Amp\\Parser\\' => 
+        array (
+            0 => __DIR__ . '/..' . '/amphp/parser/src',
+        ),
+        'Amp\\Parallel\\' => 
+        array (
+            0 => __DIR__ . '/..' . '/amphp/parallel/src',
+        ),
+        'Amp\\Dns\\' => 
+        array (
+            0 => __DIR__ . '/..' . '/amphp/dns/src',
+        ),
+        'Amp\\Cache\\' => 
+        array (
+            0 => __DIR__ . '/..' . '/amphp/cache/src',
+        ),
+        'Amp\\ByteStream\\' => 
+        array (
+            0 => __DIR__ . '/..' . '/amphp/byte-stream/src',
+        ),
+        'Amp\\' => 
+        array (
+            0 => __DIR__ . '/..' . '/amphp/amp/src',
         ),
         'AdobeStock\\Api\\' => 
         array (

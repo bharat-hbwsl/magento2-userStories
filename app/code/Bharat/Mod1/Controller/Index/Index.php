@@ -3,7 +3,7 @@ namespace Bharat\Mod1\Controller\Index;
 
 use Magento\Framework\App\Action\Action;
 use Magento\Framework\App\Action\Context;
-use \Bharat\Mod1\Test1;
+use Bharat\Mod1\Test1;
 
 class Index extends Action
 {
@@ -14,7 +14,7 @@ class Index extends Action
         Test1 $test1
     ) {
         $this->test1 = $test1;
-        return parent::__construct($context);
+        parent::__construct($context);
     }
 
     public function execute()

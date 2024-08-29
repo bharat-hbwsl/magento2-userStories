@@ -5,12 +5,10 @@
     <type name="Bharat\Mod1\Test1">
         <arguments>
             <argument name="dataArray" xsi:type="array">
-                <item name="key1" xsi:type="string">Bharat Upadhyay</item>
-                <item name="key2" xsi:type="string">This is the custom array</item>
-                <item name="key3" xsi:type="string">This is the custom array 1</item>
-                <item name="key4" xsi:type="string">This is the custom array 2</item>
+                <item name="key1" xsi:type="string">value1</item>
+                <item name="key2" xsi:type="string">value2</item>
             </argument>
-            <argument name="textString" xsi:type="string">Lets see if this is working</argument>
+            <argument name="textString" xsi:type="string">Hello, World!</argument>
         </arguments>
     </type>
 </config>
