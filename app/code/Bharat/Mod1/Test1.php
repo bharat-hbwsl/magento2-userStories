@@ -5,22 +5,24 @@ namespace Bharat\Mod1;
 
 class Test1
 {
-    protected $category;
+    // protected $category;
     protected $dataArray;
     protected $textString;
 
     public function __construct(
+        // CustomCategoryInterface $category,
         array $dataArray,
         string $textString
     ) {
+        // $this->category = $category;
         $this->dataArray = $dataArray;
         $this->textString = $textString;
     }
 
     public function displayParams()
     {
-        echo "\nArray: ";
+        print_r("Array: ");
         print_r($this->dataArray);
-        echo "String: " . $this->textString;
+        print_r("String: " . $this->textString);
     }
 }
