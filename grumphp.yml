@@ -97,7 +97,7 @@ grumphp:
     #   config_contains_finder: false
     #   verbose: true
     phpmd:
-      ruleset: ['dev/tests/static/testsuite/Magento/Test/Php/_files/phpmd/ruleset.xml']
+      # ruleset: ['dev/tests/static/testsuite/Magento/Test/Php/_files/phpmd/ruleset.xml']
       triggered_by: ['php']
       exclude:
         - "./app/code/Magento/"

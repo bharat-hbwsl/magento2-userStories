@@ -348,6 +348,7 @@ return [
         'Magento_WishlistSampleData' => 1,
         'Bharat_HelloWorld' => 1,
         'Bharat_Mod1' => 1,
+        'Bharat_Mod2' => 1,
         'PayPal_Braintree' => 1,
         'PayPal_BraintreeGraphQl' => 1,
         'Temando_ShippingRemover' => 1
