@@ -84,7 +84,8 @@ grumphp:
       error_severity: 10
       warning_severity: ~
       report: full
-      triggered_by: [phtml, php]
+      triggered_by: []
+      # triggered_by: [phtml, php]
       metadata:
         priority: 70
     # phpcsfixer2:

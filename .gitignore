@@ -5,6 +5,7 @@
 /pub/media/tmp/
 /pub/media/catalog/product/cache/
 /app/etc/env.php
+/var/cache/
 
 # Composer dependencies and vendor folder
 /vendor/
