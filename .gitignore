@@ -1,11 +1,10 @@
 # Magento generated folders
-/generated/
-/var/
+/generated/*
+/var/*
 /pub/static/
 /pub/media/tmp/
 /pub/media/catalog/product/cache/
-/app/etc/env.php
-/var/cache/
+//app/etc/env.php
 
 # Composer dependencies and vendor folder
 /vendor/
@@ -27,22 +26,19 @@ Thumbs.db
 # Deployment specific files
 /deploy/
 
-# Magento caches
-/report/
-/auth.json
+# Magento caches and logs
 /var/cache/
-/var/page_cache/
-/var/view_preprocessed/
-
-# Magento logs
+/var/page_cache//var/view_preprocessed/
 /var/log/
 /var/session/
+grumphp.yml
 
-# Temporary files
-*.gz
-*.zip
-*.tar
-*.log
+/report/
+/auth.json
+
+# Ignore static assets that are generated automatically/pub/static/adminhtml/
+
+/pub/static/frontend/
 
 # PHPUnit
 .phpunit.result.cache
