@@ -1,12 +1,10 @@
 <?xml version="1.0"?>
 <config xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:magento:framework:Event/etc/events.xsd">
-    <!-- <event name="catalog_controller_product_view">
-        <observer name="log_product_name" instance="Bharat\Mod3\Observer\LogProductName" /> -->
-    <!-- </event> -->
+    <event name="catalog_controller_product_view">
+        <observer name="log_product_name" instance="Bharat\Mod3\Observer\LogProductName" />
+        <observer name="log_product_details" instance="Bharat\Mod3\Observer\LogProductDetails"/>
+    </event>
     <event name="controller_action_postdispatch">
         <observer name="log_page_html" instance="Bharat\Mod3\Observer\LogPageHtml" />
-    </event>
-    <event name="catalog_controller_product_view">
-        <observer name="log_product_details" instance="Bharat\Mod3\Observer\LogProductDetails"/>
     </event>
 </config>
