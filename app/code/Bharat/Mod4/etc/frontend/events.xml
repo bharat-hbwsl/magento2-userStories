@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<config xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:magento:framework:Event/etc/events.xsd">
+    <event name="controller_front_send_response_before">
+        <observer name="log_available_routers" instance="Bharat\Mod4\Observer\LogAvailableRouters"/>
+        <observer name="redirect_not_found" instance="Bharat\Mod4\Observer\RedirectNotFound" />
+
+    </event>
+    <event name="controller_action_postdispatch">
+        <observer name="redirect_not_found" instance="Bharat\Mod4\Observer\RedirectNotFound" />
+    </event>
+    
+    
+</config>
