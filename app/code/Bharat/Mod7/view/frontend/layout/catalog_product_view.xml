@@ -1,0 +1,23 @@
+<?xml version="1.0"?>
+<config xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:magento:framework:view/layout/etc/layout.xsd">
+    <referenceContainer name="columns">
+        <container name="additional.columns" htmlTag="div" htmlClass="additional-columns"/>
+    </referenceContainer>
+    <referenceContainer name="main">
+        <container name="product.info.additional" htmlTag="div" htmlClass="product-info-additional"/>
+    </referenceContainer>
+    <referenceContainer name="product.info.main">
+        <block class="Bharat\Mod7\Block\Message" name="custom_message" template="Bharat_Mod7::message.phtml" before="product.info.price" />
+    </referenceContainer>
+</config>
+
+<!-- Second Part We were required to update the file-->
+
+
+<!-- <?xml version="1.0"?>
+<config xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:magento:framework:view/layout/etc/layout.xsd">
+    <referenceContainer name="product.info.main">
+        <block class="Bharat\Mod7\Block\Message" name="custom_message" template="Bharat_Mod7::message.phtml" before="product.info.price" />
+    </referenceContainer>
+</config> -->
+<!-- First Part Required to Display some of the things !! -->

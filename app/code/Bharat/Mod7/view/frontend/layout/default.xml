@@ -1,0 +1,6 @@
+<?xml version="1.0"?>
+<config xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:magento:framework:view/layout/etc/layout.xsd">
+    <referenceContainer name="page.main.container">
+        <block class="Bharat\Mod7\Block\Message" name="custom_message_global" template="Bharat_Mod7::message.phtml" />
+    </referenceContainer>
+</config>

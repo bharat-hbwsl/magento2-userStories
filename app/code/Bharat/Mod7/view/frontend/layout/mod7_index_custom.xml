@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<config xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:magento:framework:view/layout/etc/layout.xsd">
+    <referenceContainer name="content">
+        <block class="Magento\Framework\View\Element\Template" name="custom_block" template="Bharat_Mod7::custom.phtml"/>
+    </referenceContainer>
+    <referenceContainer name="columns">
+        <container name="custom.column" htmlTag="div" htmlClass="custom-column"/>
+        <block class="Magento\Framework\View\Element\Text" name="custom_text_block">
+            <arguments>
+                <argument name="text" xsi:type="string">This is a test block inside custom.column</argument>
+            </arguments>
+        </block>
+    </referenceContainer>
+</config>
