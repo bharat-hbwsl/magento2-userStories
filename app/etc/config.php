@@ -352,6 +352,7 @@ return [
         'Bharat_Mod3' => 0,
         'Bharat_Mod4' => 0,
         'Bharat_Mod5' => 1,
+        'Bharat_Mod6' => 1,
         'Mageplaza_HelloWorld' => 1,
         'PayPal_Braintree' => 1,
         'PayPal_BraintreeGraphQl' => 1,
