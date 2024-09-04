@@ -1,5 +1,4 @@
 <?php
-
 namespace Bharat\Mod8\Controller\Index;
 
 use Magento\Framework\App\Action\Action;

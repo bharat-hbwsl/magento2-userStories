@@ -1,12 +1,19 @@
 <form action="<?php echo $block->getUrl('mod8/index/save'); ?>" method="post">
+    
     <label for="first_name">First Name:</label>
-    <input type="text" name="first_name" id="first_name">
+    <input type="text" name="first_name" id="first_name" required>
     
     <label for="last_name">Last Name:</label>
-    <input type="text" name="last_name" id="last_name">
+    <input type="text" name="last_name" id="last_name" required>
     
     <label for="email_id">Email ID:</label>
-    <input type="email" name="email_id" id="email_id">
+    <input type="email" name="email_id" id="email_id" required>
+    
+    <label for="address">Address:</label>
+    <textarea name="address" id="address" required></textarea>
+    
+    <label for="phone_number">Phone Number:</label>
+    <input type="text" name="phone_number" id="phone_number" pattern="\d{10}" title="Phone number must be 10 digits" required>
     
     <button type="submit">Submit</button>
 </form>
