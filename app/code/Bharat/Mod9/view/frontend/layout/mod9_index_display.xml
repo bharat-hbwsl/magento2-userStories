@@ -1,0 +1,6 @@
+<?xml version="1.0"?>
+<layout xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:magento:framework:View/Layout/etc/layout.xsd">
+    <referenceContainer name="content">
+        <block class="Bharat\Mod9\Block\Text" name="mod9_text" template="Bharat_Mod9::display.phtml"/>
+    </referenceContainer>
+</layout>

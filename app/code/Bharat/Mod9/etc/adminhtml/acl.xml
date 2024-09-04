@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<config xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:magento:framework:Acl/etc/acl.xsd">
+    <acl>
+        <resources>
+            <admin>
+                <children>
+                    <Bharat_Mod9 translate="title" module="Bharat_Mod9">
+                        <title>Mod9 Configuration</title>
+                        <sortOrder>1000</sortOrder>
+                    </Bharat_Mod9>
+                </children>
+            </admin>
+        </resources>
+    </acl>
+</config>
