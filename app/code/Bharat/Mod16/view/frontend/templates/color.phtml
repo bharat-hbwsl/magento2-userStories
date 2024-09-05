@@ -1,0 +1,10 @@
+<?php
+$color = $block->getPageColor();
+?>
+<?php if ($color): ?>
+    <style>
+        body {
+            background-color: <?= $color ?>;
+        }
+    </style>
+<?php endif; ?>
