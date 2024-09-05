@@ -349,6 +349,7 @@ return [
         'Bharat_HelloWorld' => 0,
         'Bharat_Mod1' => 1,
         'Bharat_Mod14' => 1,
+        'Bharat_Mod15' => 1,
         'Bharat_Mod2' => 1,
         'Bharat_Mod3' => 0,
         'Bharat_Mod4' => 0,

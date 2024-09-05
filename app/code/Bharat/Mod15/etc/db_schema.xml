@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<schema xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:magento:framework:Setup/Declaration/Schema/etc/schema.xsd">
+    <table name="custom_order_placement" resource="default" engine="innodb" comment="Custom Order Placement">
+        <column xsi:type="int" name="id" nullable="false" identity="true" unsigned="true" comment="ID"/>
+        <column xsi:type="smallint" name="customer_group_id" nullable="false" unsigned="true" comment="Customer Group ID"/>
+        <column xsi:type="decimal" name="total_sales_amount" precision="12" scale="4" nullable="false" comment="Total Sales Amount"/>
+        
+        <constraint xsi:type="primary" referenceId="PRIMARY">
+            <column name="id"/>
+        </constraint>
+        
+    </table>
+</schema>
