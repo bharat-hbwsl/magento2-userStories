@@ -1,0 +1,8 @@
+<config xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:magento:framework:ObjectManager:config:etc:di.xml">
+    <type name="Magento\Catalog\Model\Product">
+        <plugin name="add_price_adjustment" type="Bharat\Mod18\Plugin\ProductPricePlugin" />
+    </type>
+    <type name="Magento\Quote\Model\Quote\Item">
+        <plugin name="add_cart_price_adjustment" type="Bharat\Mod18\Plugin\CartPricePlugin" />
+    </type>
+</config>
