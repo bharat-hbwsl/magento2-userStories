@@ -353,6 +353,7 @@ return [
         'Bharat_Mod16' => 1,
         'Bharat_Mod17' => 0,
         'Bharat_Mod18' => 1,
+        'Bharat_Mod19' => 1,
         'Bharat_Mod2' => 1,
         'Bharat_Mod3' => 0,
         'Bharat_Mod4' => 0,
