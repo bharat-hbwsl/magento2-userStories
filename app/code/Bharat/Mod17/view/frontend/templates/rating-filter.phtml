@@ -1,0 +1,8 @@
+<?php
+foreach ($block->getItems() as $item): ?>
+    <div>
+        <a href="<?= $block->getFilterUrl($item) ?>">
+            <?= $item->getLabel() ?> (<?= $item->getCount() ?>)
+        </a>
+    </div>
+<?php endforeach; ?>
