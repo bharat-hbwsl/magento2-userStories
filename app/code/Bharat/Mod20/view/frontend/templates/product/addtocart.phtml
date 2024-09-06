@@ -1,0 +1,14 @@
+<?php
+$product = $block->getProduct();
+?>
+
+<!-- Debugging Output -->
+<!-- Product Quantity: <?php echo $product->getQty(); ?> -->
+
+<?php if ($product->getQty() <= 0) : ?>
+    <a href="<?php echo $block->getUrl('contact'); ?>" class="action primary call-for-availability">
+        <?php echo __('Call For Availability'); ?>
+    </a>
+<?php else : ?>
+    <?php echo $block->getChildHtml('addtocart'); ?>
+<?php endif; ?>

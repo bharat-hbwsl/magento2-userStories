@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<config xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:magento:framework:ObjectManager/etc/config.xsd">
+    <type name="Magento\Catalog\Block\Product\View">
+        <plugin name="Bharat_Mod20_Product_View" type="Bharat\Mod20\Plugin\Product\View" />
+    </type>
+    <type name="Magento\Catalog\Block\Product\ListProduct">
+        <plugin name="Bharat_Mod20_Product_List" type="Bharat\Mod20\Plugin\Product\ListProduct" />
+    </type>
+</config>
