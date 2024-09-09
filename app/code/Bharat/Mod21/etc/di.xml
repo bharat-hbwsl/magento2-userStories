@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<config xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:magento:framework:ObjectManager/etc/config.xsd">
+    <type name="Magento\Framework\View\Layout">
+        <plugin name="check_affiliate_param" type="Bharat\Mod21\Plugin\AffiliatePlugin" />
+    </type>
+</config>
+
+<!-- <?xml version="1.0"?>
+<config xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:magento:framework:ObjectManager/etc/config.xsd">
+    <type name="Magento\Framework\View\Result\Page">
+        <plugin name="affiliated_product_layout_plugin" type="Bharat\Mod21\Plugin\ResultPagePlugin" />
+    </type>
+</config> -->
