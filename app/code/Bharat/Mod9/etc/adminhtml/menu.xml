@@ -6,7 +6,7 @@
              module="Bharat_Mod9" 
              sortOrder="100" 
              parent="Magento_Backend::content" 
-             action="mod9/index/display" 
+             action="mod9/adminhtml/index/display" 
              resource="Bharat_Mod9::config"/>
     </menu>
 </config>

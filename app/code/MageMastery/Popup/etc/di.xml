@@ -1,0 +1,25 @@
+<?xml version="1.0"?>
+<config xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:magento:framework:ObjectManager/etc/config.xsd">
+    
+    <preference for="MageMastery\Popup\Api\Data\PopupInterface" type="MageMastery\Popup\Model\Popup"/>
+    <preference for="MageMastery\Popup\Api\PopupRepositoryInterface" type="MageMastery\Popup\Service\PopupRepository"/>
+    <preference for="MageMastery\Popup\Api\PopupManagementInterface" type="MageMastery\Popup\Service\PopupManagement"/>
+    
+
+    <type name="Magento\Framework\View\Element\UiComponent\DataProvider\CollectionFactory">
+        <arguments>
+            <argument name="collections" xsi:type="array">
+                <item name="magemastery_popup_listing_data_source" xsi:type="string">MageMastery\Popup\Model\ResourceModel\Popup\Grid\Collection</item>
+            </argument>
+        </arguments>
+    </type>
+
+    <type name="MageMastery\Popup\Model\ResourceModel\Popup\Grid\Collection">
+        <arguments>
+            <argument name="mainTable" xsi:type="string">magemastery_popup</argument>
+            <argument name="eventPrefix" xsi:type="string">magemastery_popup_grid_collection</argument>
+            <argument name="eventObject" xsi:type="string">popup_grid_collection</argument>
+            <argument name="resourceModel" xsi:type="string">MageMastery\Popup\Model\ResourceModel\Popup</argument>
+        </arguments>
+    </type>
+</config>
