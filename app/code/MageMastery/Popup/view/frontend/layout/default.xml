@@ -4,7 +4,6 @@
     <body>
         <referenceContainer name="before.body.end">
             <block 
-            class="Magento\Framework\View\Element\Template" 
             name="magemastery.popup.popup"
             template='MageMastery_Popup::popup.phtml'>
                 <arguments>
@@ -12,6 +11,5 @@
                 </arguments>
             </block>
         </referenceContainer>
-    
     </body>
 </page>

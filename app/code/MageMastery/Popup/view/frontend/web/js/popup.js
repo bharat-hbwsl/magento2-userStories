@@ -5,16 +5,16 @@ define (
     ],function($, modal){
         'use strict';
         return function (settings){
-            console.log(settings);
-            // const content=settings.content,
-            //       timeout=settings.timeout;
-            // const options={
-            //     type:'popup',
-            //     responsive:true,
-            //     autoOpen:true,
-
-            // };
-            // $('<div/>').html(content).modal(options);
+            // console.log(settings);
+            console.log(settings.content);
+            const content=settings.content,
+                  timeout=settings.timeout;
+            const options={
+                type:'popup',
+                responsive:true,
+                autoOpen:true,
+            };
+            $('<div/>').html(content).modal(options);
         }
     }
 );

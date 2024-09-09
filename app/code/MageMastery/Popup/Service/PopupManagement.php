@@ -15,9 +15,13 @@ class PopupManagement implements PopupManagementInterface
         private CollectionFactory $collectionFactory
     ) {
     }
-
+    /**
+     * @return \MageMastery\Popup\Api\Data\PopupInterface
+     */
     public function getApplicablePopup():PopupInterface
     {
+        /**
+         * @var PopupInterface $popup */
         $popup=$this->getCollection()
         ->addFieldToFilter('is_active', PopupInterface::STATUS_ENABLED)
         ->addOrder('popup_id')

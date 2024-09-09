@@ -4,7 +4,6 @@
     <preference for="MageMastery\Popup\Api\Data\PopupInterface" type="MageMastery\Popup\Model\Popup"/>
     <preference for="MageMastery\Popup\Api\PopupRepositoryInterface" type="MageMastery\Popup\Service\PopupRepository"/>
     <preference for="MageMastery\Popup\Api\PopupManagementInterface" type="MageMastery\Popup\Service\PopupManagement"/>
-    
 
     <type name="Magento\Framework\View\Element\UiComponent\DataProvider\CollectionFactory">
         <arguments>
