@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<schema xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:magento:framework:Setup/etc/db_schema.xsd">
+    <table name="bharat_mod22_popup" resource="default" engine="innodb" comment="Pop-ups Table">
+        <column name="popup_id" xsi:type="int" nullable="false" identity="true" comment="Popup ID"/>
+        <column name="popup_content" xsi:type="text" nullable="false" comment="Popup Content"/>
+        <column name="is_active" xsi:type="smallint" nullable="false" default="1" comment="Is Active"/>
+        <column name="created_at" xsi:type="timestamp" nullable="false" default="CURRENT_TIMESTAMP" comment="Created At"/>
+        <constraint xsi:type="primary" referenceId="PRIMARY">
+            <column name="popup_id"/>
+        </constraint>
+    </table>
+</schema>

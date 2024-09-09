@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<config xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:magento:framework/Menu/etc/menu.xsd">
+    <menu>
+        <add id="Bharat_Mod22::popup"
+             title="Manage Pop-ups"
+             module="Bharat_Mod22"
+             sortOrder="100"
+             parent="Magento_Backend::content"
+             action="mod22/popup/index"
+             resource="Bharat_Mod22::popup"/>
+    </menu>
+</config>
