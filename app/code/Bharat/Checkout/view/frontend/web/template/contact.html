@@ -1,0 +1,34 @@
+<li id="contact" class="checkout-contact" data-bind="fadeVisible:visible()">
+    <div class="step-title" translate="'Contact'" data-role="title"></div>
+    <div id="checkout-step-contact" class="step-content" data-role="content">
+        <form id="co-contact-form" class="form" submit="setContactInformation" novalidate="novalidate">
+
+            <div id="contact-form" class="fieldset address">
+                <!-- ko foreach: getRegion('additional-fieldsets') -->
+                <!-- ko template: getTemplate() --><!--/ko-->
+                <!--/ko-->
+                <div class="field required">
+                    <h1>Test</h1>
+                    <label class="label" for="contact-name"><span translate="'Full Name'"></span></label>
+                    <div class="control">
+                        <input type="text" id="contact-name" class="input-text" data-bind="value: contactName" />
+                    </div>
+                </div>
+                <div class="field required">
+                    <label class="label" for="contact-email"><span translate="'Email Address'"></span></label>
+                    <div class="control">
+                        <input type="email" id="contact-email" class="input-text" data-bind="value: contactEmail" />
+                    </div>
+                </div>
+            </div>
+
+            <div class="actions-toolbar" id="contact-buttons-container">
+                <div class="primary">
+                    <button data-role="opc-continue" type="submit" class="button action continue primary">
+                        <span translate="'Next'"></span>
+                    </button>
+                </div>
+            </div>
+        </form>
+    </div>
+</li>
