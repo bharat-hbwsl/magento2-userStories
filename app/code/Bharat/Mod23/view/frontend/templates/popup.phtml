@@ -1,0 +1,8 @@
+<?php $popups = $block->getActivePopups(); ?>
+<?php if ($popups->getSize()): ?>
+    <?php foreach ($popups as $popup): ?>
+        <div class="popup">
+            <?= $popup->getPopupContent() ?>
+        </div>
+    <?php endforeach; ?>
+<?php endif; ?>
