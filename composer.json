@@ -19,6 +19,8 @@
     },
     "version": "2.4.6",
     "require": {
+        "akeneo/api-php-client": "^9.1",
+        "http-interop/http-factory-guzzle": "^1.2",
         "magento/composer-dependency-version-audit-plugin": "~0.1",
         "magento/composer-root-update-plugin": "~2.0",
         "magento/module-bundle-sample-data": "100.4.*",
@@ -42,6 +44,7 @@
         "magento/module-wishlist-sample-data": "100.4.*",
         "magento/product-community-edition": "2.4.6",
         "magento/sample-data-media": "100.4.*",
+        "php-http/guzzle7-adapter": "^1.0",
         "tnw/module-stripe": "^2.3"
     },
     "autoload": {
@@ -96,16 +99,16 @@
     },
     "minimum-stability": "stable",
     "prefer-stable": true,
-    "repositories": [
-        {
+    "repositories": {
+        "packagist": {
+            "type": "composer",
+            "url": "https://packagist.org"
+        },
+        "0": {
             "type": "composer",
             "url": "https://repo.magento.com/"
-        },
-        {
-            "type": "vcs",
-            "url": "https://github.com/stripe/stripe-magento2"
         }
-    ],
+    },
     "extra": {
         "magento-force": "override"
     }
